@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522162904 source:/home/yukinessa/codeblock/PDP/tugas2/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522162904 source:/home/yukinessa/codeblock/Algoritma Program/PAP4/tugas2/main.c
+	<stdio.h>
+	<stdlib.h>
+

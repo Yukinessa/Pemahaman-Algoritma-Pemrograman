@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526395955 source:/home/catzy/ALPRO/Tugas/PAP08/PAP08-1/header.c
+	"header.h"
+
+1526395954 /home/catzy/ALPRO/Tugas/PAP08/PAP08-1/header.h
+	<stdio.h>
+	<stdlib.h>
+

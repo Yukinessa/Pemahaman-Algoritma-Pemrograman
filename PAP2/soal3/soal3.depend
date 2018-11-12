@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521030683 source:/home/yukinessa/codeblock/PDP/soal3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

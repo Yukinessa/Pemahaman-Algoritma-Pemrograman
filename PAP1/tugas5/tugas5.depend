@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1520080601 source:/home/yukinessa/codeblock/PDP/tugas5/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1520437680 source:/home/yukinessa/codeblock/Algoritma Program/PAP1/tugas5/main.c
+	"header.h"
+
+1520437671 source:/home/yukinessa/codeblock/Algoritma Program/PAP1/tugas5/fungsi.c
+
+1520437704 /home/yukinessa/codeblock/Algoritma Program/PAP1/tugas5/header.h
+	<stdio.h>
+	<stdlib.h>
+

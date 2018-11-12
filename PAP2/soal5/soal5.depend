@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1521031874 source:/home/yukinessa/codeblock/PDP/soal5/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1521037057 source:/home/yukinessa/codeblock/PDP/soal5/pustaka.c
+	"pustaka.h"
+
+1521037059 /home/yukinessa/codeblock/PDP/soal5/pustaka.h
+	<stdio.h>
+	<stdlib.h>
+

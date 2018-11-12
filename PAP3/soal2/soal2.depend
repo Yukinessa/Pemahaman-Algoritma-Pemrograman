@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521470890 source:/home/yukinessa/codeblock/PDP/soal1/main.c
+	<stdio.h>
+	<stdlib.h>
+

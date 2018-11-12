@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521669617 source:/home/yukinessa/codeblock/Algoritma Program/pap3/soal1/main.c
+	"pustaka.h"
+
+1521669458 /home/yukinessa/codeblock/Algoritma Program/pap3/soal1/pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1521669534 source:/home/yukinessa/codeblock/Algoritma Program/pap3/soal1/pustaka.c
+	"pustaka.h"
+
